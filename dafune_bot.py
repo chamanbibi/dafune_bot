@@ -75,4 +75,4 @@ async def Ahelp(ctx):
      &Ahelp - to access Help Desk
      """,colour=discord.Colour.orange())
     await ctx.send(embed=embed)
-client.run('OTMxNTUxOTgwNDAzNDQxNjk0.YeGFYw.4VStlAkKqT0al9AxPiN_lPzwqw0')
+client.run('OTMxNTUxOTgwNDAzNDQxNjk0.YeGFYw.z9NTN-34NQ_5Mk8ZeMPbvD7dgsg')
